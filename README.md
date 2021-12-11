@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm xinetzone</h1>
-<h2 align="center">A passionate AI developer from China</h2>
+
+<header align="center">
+<h1>Hi 👋, I'm xinetzone</h1>
+A passionate AI developer from China
+</header>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinetzone&label=Profile%20views&color=0e75b6&style=flat" alt="xinetzone" /> </p>
 
@@ -43,7 +46,7 @@ Please feel free to ask me if you have any of those.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/xinetzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xinetzone" height="30" width="40" /></a>
-<a href="https://kaggle.com/xinetzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xinetzone" height="30" width="40" /></a>
+<a href="https://kaggle.com/chaosxinwei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaosxinwei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
