@@ -1,7 +1,10 @@
+<!-- 
+参考 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+-->
 
 <header align="center">
 <h1>Hi 👋, I'm xinetzone</h1>
-A passionate AI developer from China
+<p style="font-size:150%;color: rebeccapurple;">A passionate AI developer from China</p>
 </header>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinetzone&label=Profile%20views&color=0e75b6&style=flat" alt="xinetzone" /> </p>
@@ -57,3 +60,7 @@ Please feel free to ask me if you have any of those.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinetzone&show_icons=true&locale=en" alt="xinetzone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinetzone&" alt="xinetzone" /></p>
+
+<a href="https://github.com/Xinering/cocoapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xinering&repo=cocoapi" />
+</a>
