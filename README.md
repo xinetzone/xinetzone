@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinetzone&label=Profile%20views&color=0e75b6&style=flat" alt="xinetzone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xinetzone" alt="xinetzone" /></a> </p>
+[![xinetzone](https://github-profile-trophy.vercel.app/?username=xinetzone)](https://xinetzone.github.io)
 
 - 🔭 I’m currently working on [d2py](https://github.com/xinetzone/d2py)
 
@@ -37,7 +37,6 @@ Please feel free to ask me if you have any of those.
 
 - 📧 xinzone@outlook.com
 
-
 ### Blogs posts
 
 - 📝 Blog [cnblogs](https://www.cnblogs.com/q735613050/) | [简书](https://www.jianshu.com/u/4302480a3e8e) | [慕课网](https://www.imooc.com/u/5467447/articles)
@@ -45,6 +44,7 @@ Please feel free to ask me if you have any of those.
 - [Tensor Atom](https://tensoratom.github.io/)
 
 ### Connect with me
+
 <p align="left">
 <a href="https://kaggle.com/chaosxinwei" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="chaosxinwei" height="40" width="80" /></a>
 <a href="https://dev.to/xinetzone" target="blank"><img align="center" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="xinetzone" height="30" width="80" /></a>
@@ -56,14 +56,41 @@ Please feel free to ask me if you have any of those.
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinetzone&show_icons=true&locale=cn&layout=compact" alt="xinetzone" /></p>
+<!-- or locale=cn -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinetzone&show_icons=true&locale=en&layout=compact" alt="xinetzone" /></p>
 
-[![xinetzone's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinetzone&show_icons=true&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xinetzone)
+[![xinetzone's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinetzone&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xinetzone)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinetzone&" alt="xinetzone" /></p>
 
 ### Quality projects created
 
-<a href="https://github.com/Xinering/cocoapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xinering&repo=cocoapi" />
+<p align="left">
+<a href="https://github.com/daobook/daobook.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daobook&repo=daobook.github.io" />
 </a>
+<a href="https://github.com/Xinering/cocoapi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xinering&repo=cocoapi" />
+</a>
+<a href="https://github.com/DataLoaderX/datasetsome">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataLoaderX&repo=datasetsome" />
+</a>
+<a href="https://github.com/TensorAtom/Graph">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TensorAtom&repo=Graph" />
+</a>
+<a href="https://github.com/Enjoying-Learning/StudyPyQt5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enjoying-Learning&repo=StudyPyQt5" />
+</a>
+<a href="https://github.com/XinetAI/CVX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XinetAI&repo=CVX" />
+</a>
+<a href="https://github.com/Papers-Collection/DecodePaper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Papers-Collection&repo=DecodePaper" />
+</a>
+<a href="https://github.com/XNoteW/Studying">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XNoteW&repo=Studying" />
+</a>
+</p>
+
+
+
