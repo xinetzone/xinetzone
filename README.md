@@ -1,10 +1,10 @@
 <!-- 
 参考 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
-
 <header align="center">
+<link rel="stylesheet" href="_static/default.css">
 <h1>Hi 👋, I'm xinetzone</h1>
-<p style="font-size:150%;color: rebeccapurple;">A passionate AI developer from China</p>
+<h2 class="profile-subtitle">A passionate AI developer from China</h2>
 </header>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinetzone&label=Profile%20views&color=0e75b6&style=flat" alt="xinetzone" /> </p>
@@ -17,17 +17,15 @@
 
 - 👯 I’m looking to collaborate on [daobook](https://github.com/daobook)
 
-- 👨‍💻 All of my projects are available at [https://github.com/xinetzone](https://github.com/xinetzone)
+- 👨‍💻 All of my projects are available at [xinetzone](https://github.com/xinetzone)
 
-- 📝 I regularly write articles on [https://github.com/xinetzone](https://github.com/xinetzone)
+- 📝 I regularly write articles on [xinetzone blog](https://xinetzone.github.io/)
 
-- :hammer_and_pick: Python/GitHub Actions, a little bit C++/JavaScript/PyQt5/PySide2
+- ⚒ Python/GitHub Actions, a little bit C++/JavaScript/PyQt5/PySide2
 
-- :package: Building [datasetsome](https://github.com/DataLoaderX/datasetsome) and more
+- 📦 Building [datasetsome](https://github.com/DataLoaderX/datasetsome) and more
 
-- :pencil2: VS Code
-
-- 💬 Ask me about **python**
+- ✏️ VS Code, Markdown and RST
 
 ### 💬 Ask me about
 
@@ -38,28 +36,33 @@ Please feel free to ask me if you have any of those.
 ### 📫 How to reach me
 
 - 📧 xinzone@outlook.com
+
+
+### Blogs posts
+
 - 📝 Blog [cnblogs](https://www.cnblogs.com/q735613050/) | [简书](https://www.jianshu.com/u/4302480a3e8e) | [慕课网](https://www.imooc.com/u/5467447/articles)
 - ❓ [知乎](https://www.zhihu.com/people/liu-xin-wei-55) | [Linkedin](https://www.linkedin.com/in/xinet)
 - [Tensor Atom](https://tensoratom.github.io/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
-<a href="https://dev.to/xinetzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xinetzone" height="30" width="40" /></a>
-<a href="https://kaggle.com/chaosxinwei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaosxinwei" height="30" width="40" /></a>
+<a href="https://kaggle.com/chaosxinwei" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="chaosxinwei" height="40" width="80" /></a>
+<a href="https://dev.to/xinetzone" target="blank"><img align="center" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="xinetzone" height="30" width="80" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinetzone&show_icons=true&locale=en&layout=compact" alt="xinetzone" /></p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1525981?s=88&v=4" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinetzone&show_icons=true&locale=en" alt="xinetzone" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinetzone&show_icons=true&locale=cn&layout=compact" alt="xinetzone" /></p>
+
+[![xinetzone's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinetzone&show_icons=true&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xinetzone)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinetzone&" alt="xinetzone" /></p>
+
+### Quality projects created
 
 <a href="https://github.com/Xinering/cocoapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xinering&repo=cocoapi" />
