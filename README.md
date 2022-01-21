@@ -41,7 +41,7 @@ Please feel free to ask me if you have any of those.
 
 - 📝 Blog [cnblogs](https://www.cnblogs.com/q735613050/) | [简书](https://www.jianshu.com/u/4302480a3e8e) | [慕课网](https://www.imooc.com/u/5467447/articles)
 - ❓ [知乎](https://www.zhihu.com/people/liu-xin-wei-55) | [Linkedin](https://www.linkedin.com/in/xinet)
-- [Tensor Atom](https://tensoratom.github.io/)
+- [Dao Book](https://daobook.github.io/)
 
 ### Connect with me
 
