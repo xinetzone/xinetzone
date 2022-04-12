@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [d2py](https://github.com/xinetzone/d2py)
 
-- 🌱 I’m currently learning **Apollo, ROS2**
+- 🌱 I’m currently learning **TVM & VTA**
 
 - 👯 I’m looking to collaborate on [daobook](https://github.com/daobook)
 
@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [xinetzone blog](https://xinetzone.github.io/)
 
-- ⚒ Python/GitHub Actions, a little bit C++/JavaScript/PyQt5/PySide2
+- ⚒ Python/GitHub Actions, a little bit C++/JavaScript/PyQt5/PySide2/Apollo/ROS2
 
 - 📦 Building [datasetsome](https://github.com/DataLoaderX/datasetsome) and more
 
