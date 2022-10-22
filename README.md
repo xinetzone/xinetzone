@@ -72,12 +72,6 @@ Please feel free to ask me if you have any of those.
 <a href="https://github.com/daobook/daobook.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=daobook.github.io" />
 </a>
-<a href="https://daobook.github.io/dash-book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=dash-book" />
-</a>
-<a href="https://daobook.github.io/jupyter-book-zh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=jupyter-book-zh" />
-</a>
 <a href="https://github.com/Xinering/cocoapi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=Xinering&repo=cocoapi" />
 </a>
