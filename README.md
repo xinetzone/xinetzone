@@ -66,14 +66,14 @@ Please feel free to ask me if you have any of those.
 ### Quality projects created
 
 <p align="left">
+<a href="https://github.com/xinetzone/xinetzone.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=xinetzone.github.io" />
+</a>
 <a href="https://github.com/daobook/daobook.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=daobook.github.io" />
 </a>
 <a href="https://daobook.github.io/dash-book">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=dash-book" />
-</a>
-<a href="https://daobook.github.io/docutils">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=docutils" />
 </a>
 <a href="https://daobook.github.io/jupyter-book-zh">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=jupyter-book-zh" />
@@ -93,14 +93,11 @@ Please feel free to ask me if you have any of those.
 <a href="https://github.com/XinetAI/CVX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=XinetAI&repo=CVX" />
 </a>
-<a href="https://github.com/Papers-Collection/DecodePaper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=Papers-Collection&repo=DecodePaper" />
+<a href="https://github.com/xinetzone/xyzstyle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xinetzone&repo=xyzstyle" />
 </a>
 <a href="https://github.com/XNoteW/Studying">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=XNoteW&repo=Studying" />
-</a>
- <a href="https://github.com/xinetzone/sanstyle-starter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xinetzone&repo=sanstyle-starter" />
 </a>
 </p>
 
