@@ -67,7 +67,7 @@ Please feel free to ask me if you have any of those.
 
 <p align="left">
 <a href="https://github.com/xinetzone/xinetzone.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=xinetzone.github.io" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xinetzone&repo=xinetzone.github.io" />
 </a>
 <a href="https://github.com/daobook/daobook.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=daobook.github.io" />
@@ -98,6 +98,9 @@ Please feel free to ask me if you have any of those.
 </a>
 <a href="https://github.com/XNoteW/Studying">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=XNoteW&repo=Studying" />
+</a>
+<a href="https://github.com/xinetzone/programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xinetzone&repo=programming" />
 </a>
 </p>
 
