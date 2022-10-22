@@ -102,9 +102,6 @@ Please feel free to ask me if you have any of those.
 <a href="https://github.com/xinetzone/programming">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xinetzone&repo=programming" />
 </a>
-<a href="https://github.com/xinetzone/cv-actions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xinetzone&repo=cv-actions" />
-</a>
 </p>
 
 
