@@ -11,7 +11,7 @@
 
 [![xinetzone](https://github-profile-trophy.vercel.app/?username=xinetzone)](https://xinetzone.github.io)
 
-- 🔭 I’m currently working on [d2py](https://github.com/xinetzone/d2py)
+- 🔭 I’m currently working on [taolib](https://github.com/xinetzone/tao)
 
 - 🌱 I’m currently learning **TVM & VTA**
 
